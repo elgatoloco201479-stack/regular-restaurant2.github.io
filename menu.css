@@ -107,7 +107,7 @@ button{
 
 #sub-info1{
     position: relative;
-    top: -240px;
+    top: 10px;
     left: 30px;
     width: 600px;
     height: 230px;
@@ -115,7 +115,7 @@ button{
 
 #sub-info2{
     position: relative;
-    top: -240px;
+    top: 10px;
     left: 320px;
     width: 600px;
     height: 230px;
