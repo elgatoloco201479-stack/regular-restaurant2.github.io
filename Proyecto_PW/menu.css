@@ -1,0 +1,128 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+p{
+    color: black;
+}
+ @font-face {
+        font-family: 'IceCreamPartyNegro';
+        src: url(/icecreamparty/IceCreamPartySolid.ttf);
+}
+@font-face {
+    font-family: 'IceCreamParty';
+    src: url(/icecreamparty/IceCreamParty.ttf);
+}
+
+#titulo{
+    font-family: 'IceCreamPartyNegro';
+    font-size: 34px;
+    top: -25px;
+    left: 15px;
+    position: absolute;
+}
+
+#navBar{
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 90px;
+    
+}
+
+button{
+    position: relative;
+    top: 52px;
+    left: 0px;
+    margin-right: -5px;
+    width: 200px;
+    height: 38px;
+    background: rgb(203, 205, 143);
+    border-color: rgb(203, 205, 143);
+    font-size: 24px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    
+}
+
+#title{
+    position: relative;
+    left: 350px;
+    top: 200px;
+    width: 600px;
+    background: black;
+}
+
+#Nombre{
+    position: relative;
+    top: 15px;
+    left: 125px;
+    font-family: 'IceCreamPartyNegro';
+    color: white;
+    font-size: 60px;
+}
+
+.textoInfo{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#info1{
+    position: relative;
+    top: 500px;
+    left: 300px;
+    width: 950px;
+    height: 300px;
+    background: lightgoldenrodyellow;
+}
+
+#info2{
+    position: relative;
+    top: 550px;
+    width: 950px;
+    height: 300px;
+    background: lightgoldenrodyellow;
+
+}
+
+#img1{
+    position: relative;
+    left: 675px;
+    width: 250px;
+    height: 250px;
+    top: 25px;
+}
+#img2{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    top: 25px;
+    left: 25px;
+}
+
+#sub-info1{
+    position: relative;
+    top: -240px;
+    left: 30px;
+    width: 600px;
+    height: 230px;
+}
+
+#sub-info2{
+    position: relative;
+    top: -240px;
+    left: 320px;
+    width: 600px;
+    height: 230px;
+}
+
+#pieDePagina{
+    position: relative;
+    width: 1290px;
+    top: 600px;
+    background: black;
+}
