@@ -71,7 +71,7 @@ button{
 }
 
 
-#info1{
+.info{
     position: relative;
     top: 500px;
     left: 300px;
@@ -80,7 +80,7 @@ button{
     background: lightgoldenrodyellow;
 }
 
-#info2{
+.info2{
     position: relative;
     top: 550px;
     width: 950px;
@@ -89,14 +89,15 @@ button{
 
 }
 
-#img1{
+.img1{
     position: relative;
     left: 675px;
     width: 250px;
     height: 250px;
     top: 25px;
 }
-#img2{
+
+.img2{
     position: relative;
     width: 250px;
     height: 250px;
